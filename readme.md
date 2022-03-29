@@ -11,4 +11,4 @@
 👔 [linkedin][linkedin]
 
 [website]: https://shidharthlimboo.netlify.app
-[linkedin]: https://linkedin.ellyloel.com
+[linkedin]: 
