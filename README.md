@@ -7,6 +7,7 @@
 -   👯 I’m looking to collaborate with others on Reactjs and TypeScript
 -   💬 Feel free to ask me about anything!
 -   🥅 2022 Goals: Learn and contribute to Open Source projects.
+   
   
 📫 [Contact][email] **|**
 🏡 [website][website] **|** 
