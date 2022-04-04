@@ -2,7 +2,6 @@
 ## Hello, I'm Shidharth 👨‍💻
 # I'm a Web Developer!
 
--   🔭 I’m currently working on the spotify clone website!
 -   🌱 I’m currently learning Node, PHP & SQL.
 -   👯 I’m looking to collaborate with others on Reactjs and TypeScript
 -   💬 Feel free to ask me about anything!
